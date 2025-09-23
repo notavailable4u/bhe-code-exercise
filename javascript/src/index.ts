@@ -1,3 +1,1 @@
-const Sieve = require("./Sieve/sieve");
-
-module.exports = Sieve;
+export { nthPrime } from './primeAPI';
