@@ -1,3 +1,3 @@
 const Sieve = require("./Sieve/sieve");
 
-module.exports = Sieve;
+module.exports = Sieve; 

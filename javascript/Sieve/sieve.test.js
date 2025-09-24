@@ -14,3 +14,4 @@ describe("Sieve", () => {
     //expect(sieve.NthPrime(100000000)).toBe(2038074751); not required, just a fun challenge
   });
 });
+ 
